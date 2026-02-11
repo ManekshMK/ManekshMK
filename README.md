@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @ManekshMK
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter cross platform app development 
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Maneksh Kumar 👋
 
-<!---
-ManekshMK/ManekshMK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Frontend Developer
+
+Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React. I enjoy building responsive and user-friendly web applications with clean, maintainable code. Currently focused on improving frontend architecture and performance optimization.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+- JavaScript (ES6+)
+
+### 🎨 Frontend
+- HTML5
+- CSS3
+- React.js
+
+### 🔧 Tools
+- Git & GitHub
+- Chrome DevTools
+---
+
+## 📌 Current Focus
+- Building production-ready React applications
+
+---
+
+## 📂 Featured Projects
+- 🔹 Advanced Todo App (React)
+- 🔹 Weather Application (API Integration)
+- 🔹 Responsive Landing Page
+
+(Projects pinned below 👇)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: manekshsuresh199990@gmail.com
+- 💼 LinkedIn:[ linkedin.com/in/yourprofile](https://www.linkedin.com/in/maneksh-kumar-225087257/)
