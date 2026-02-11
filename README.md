@@ -29,7 +29,7 @@ Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.
 ## 📂 Featured Projects
 - 🔹 Advanced Todo App (React)
 - 🔹 Weather Application (API Integration)
-- 🔹 Responsive Landing Page
+- 🔹 E-Commerce Web application
 
 (Projects pinned below 👇)
 
