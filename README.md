@@ -1,35 +1,46 @@
 # Hi, I'm Maneksh Kumar 👋
 
-## 🚀 Frontend Developer
+## 💻 Java Backend Developer | Software Developer
 
-Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React. I enjoy building responsive and user-friendly web applications with clean, maintainable code. Currently focused on improving frontend architecture and performance optimization.
+Software Developer focused on building robust and scalable backend systems using Java and Spring Boot. Strong foundation in core Java, object-oriented programming, and problem solving. Currently preparing for software developer roles with emphasis on backend development and data structures.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-- JavaScript (ES6+)
+### 👨‍💻 Programming
+- Java
+- SQL
 
-### 🎨 Frontend
-- HTML5
-- CSS3
-- React.js
+### ⚙️ Backend
+- Spring Boot
+- REST APIs
+- JDBC
+- JPA / Hibernate
+
+### 🗄 Database
+- MySQL
 
 ### 🔧 Tools
 - Git & GitHub
-- Chrome DevTools
+- IntelliJ / VS Code
+- Postman
+
 ---
 
 ## 📌 Current Focus
-- Building production-ready React applications
+- Strengthening Core Java & OOP concepts
+- Practicing Data Structures & Algorithms (Java)
+- Building RESTful APIs using Spring Boot
+- Database design and optimization
 
 ---
 
 ## 📂 Featured Projects
-- 🔹 Advanced Todo App (React)
-- 🔹 Weather Application (API Integration)
-- 🔹 E-Commerce Web application
+- 🔹 Java Core Practice (DSA & Logic Problems)
+- 🔹 JDBC Student Management System
+- 🔹 Spring Boot Employee Management API
+- 🔹 Backend Project (Booking / E-Commerce System)
 
 (Projects pinned below 👇)
 
@@ -37,4 +48,4 @@ Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.
 
 ## 📫 Connect With Me
 - 📧 Email: manekshsuresh199990@gmail.com
-- 💼 LinkedIn:[ linkedin.com/in/yourprofile](https://www.linkedin.com/in/maneksh-kumar-225087257/)
+- 💼 LinkedIn: https://www.linkedin.com/in/maneksh-kumar-225087257/
